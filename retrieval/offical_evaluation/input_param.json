@@ -1,0 +1,10 @@
+{
+  "fileData":{
+    "evaluatorDir":"",
+    "evaluatorPath":"",
+    "standardFileDir":"",
+    "standardFilePath":"standard_data.zip",
+    "userFileDir":"",
+    "userFilePath":"retrieval_results.zip"
+  }
+}
