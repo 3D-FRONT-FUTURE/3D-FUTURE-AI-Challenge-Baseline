@@ -77,7 +77,7 @@ wget https://tianchi-public-us-east-download.oss-us-east-1.aliyuncs.com/231789/e
 ### Training
 **1. Data Preparation**
 
-Make sure you have downloaded training data into ```dataset/```
+Make sure you have downloaded training data into ```dataset/```.
 
 ** 2. Model Trainindg**
 
