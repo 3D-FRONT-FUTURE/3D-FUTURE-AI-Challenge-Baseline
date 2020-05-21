@@ -1,4 +1,4 @@
-#IJCAI-PRICAI 2020 3D AI Challenge: Shape Retrieval Baseline and Offical Evaluation Code
+# IJCAI-PRICAI 2020 3D AI Challenge: Shape Retrieval Baseline and Offical Evaluation Code
 
 ## Introduction
 
@@ -17,7 +17,8 @@ The codes are only for research purposes. You may also need to follow the instru
 * tqdm
 
 ## Data and Pre-trained Models
-** Training and Test Data **
+**Training and Test Data**
+
 ```
 ## download training data
 cd retrieval/dataset/
@@ -40,7 +41,8 @@ wget https://tianchi-public-us-east-download.oss-us-east-1.aliyuncs.com/231789/b
 unzip test_data.zip
 ```
 
-** Pre-trained Models **
+**Pre-trained Models**
+
 ``` 
 ## Download provided pre-trained models
 # china
@@ -53,6 +55,7 @@ unzip workshop_baseline_notexture_tuning_v1.zip
 ```
 
 **Evaluation Data**
+
 We replace standard data (ground-true data) with sample data for test purpose.
 ```
 ## download standard data (ground-true data)
@@ -73,6 +76,7 @@ wget https://tianchi-public-us-east-download.oss-us-east-1.aliyuncs.com/231789/e
 ## Usage
 ### Training
 **1. Data Preparation**
+
 Make sure you have downloaded training data into ```dataset/```
 
 ** 2. Model Trainindg**
