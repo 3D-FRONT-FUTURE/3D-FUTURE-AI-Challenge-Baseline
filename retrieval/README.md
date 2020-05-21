@@ -131,7 +131,7 @@ python evaluate.py input_param.json result.json
 ## Online Result
 Online result for baseline is shown as below. This result is better than the one in leaderboard.
 ```
-score": 60.14482022065204, "top1_acc": 0.5750211582638133, "mean_f_score": 65.05269981001194
+"score": 60.14482022065204, "top1_acc": 0.5750211582638133, "mean_f_score": 65.05269981001194
 ```
 
 

@@ -32,6 +32,7 @@ bash generate.sh
   Please note that we have comment out the ```dmc``` imports in ```im2mesh/config.py``` 
   
 **3. Evaluation**
+
 Compute chamfer distance and mean_f_score using commands below:
 ``` 
 ### 1. prepare data for evaludation
@@ -68,3 +69,6 @@ Online result for baseline is shown as below.
 score: 65.7445, chamfer distance: 0.2149, mean_f_score: 42.2322
 ```
 This baseline is different from the one in leaderboard. If you want to generate results similar to ours in leaderboard, please refer to [Pixel2mesh](https://github.com/nywang16/Pixel2Mesh)
+
+## Acknowledgements
+We borrow codes and pre-trained models from [Occupancy Networks](https://github.com/autonomousvision/occupancy_networks) to develop our baseline.
