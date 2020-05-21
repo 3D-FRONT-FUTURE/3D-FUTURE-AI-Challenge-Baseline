@@ -80,6 +80,7 @@ wget https://tianchi-public-us-east-download.oss-us-east-1.aliyuncs.com/231789/e
 Make sure you have downloaded training data into ```dataset/```
 
 ** 2. Model Trainindg**
+
 The pipeline is shown as below:
 <div align=center><img src="samples/pipeline.png" width="80%"></div>
 
@@ -117,6 +118,7 @@ python eval_workshop_baseline.py
 zip retrieval_results.zip retrieval_results.txt
 ```
 **2. Evaluation**
+
 The evaluation script shows how to compute top1 Acc and mean_f_score. Please make sure you have downloaded standard data into ```offical_evaluation/```
 ```
 # prepare submit data (ignored if using downloaded submit data)
