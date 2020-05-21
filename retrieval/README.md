@@ -79,7 +79,7 @@ wget https://tianchi-public-us-east-download.oss-us-east-1.aliyuncs.com/231789/e
 
 Make sure you have downloaded training data into ```dataset/```.
 
-** 2. Model Trainindg**
+**2. Model Training**
 
 The pipeline is shown as below:
 <div align=center><img src="samples/pipeline.png" width="80%"></div>
