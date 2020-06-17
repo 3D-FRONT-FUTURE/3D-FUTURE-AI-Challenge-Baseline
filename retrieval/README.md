@@ -16,6 +16,9 @@ The codes are only for research purposes. You may also need to follow the instru
 * dominate
 * tqdm
 
+## Update
+**June-17-2020:** 
+upload pytorch_metric_learning. If the module does not work for you, please download original version from https://github.com/KevinMusgrave/pytorch-metric-learning ;
 ## Data and Pre-trained Models
 **Training and Test Data**
 
