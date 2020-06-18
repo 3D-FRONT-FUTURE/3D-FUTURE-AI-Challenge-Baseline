@@ -10,6 +10,13 @@ The codes are only for research purposes. You may also need to follow the instru
 ## Requirements
 Please refer to requirements on [Occupancy Networks](https://github.com/autonomousvision/occupancy_networks).
 
+```
+# File "__init__.pxd", line 918, in init im2mesh.utils.libmcubes.mcubes
+# ValueError: numpy.ufunc size changed, may indicate binary incompatibility. Expected 216 from C header, got 192 from PyObject
+# >>>>>>>>>>>
+# pip3 install --upgrade numpy==1.16.0 scikit-image==0.15.0 -i https://pypi.tuna.tsinghua.edu.cn/simple
+```
+
 Also make sure you have installed the following python pacakges:
 * tqdm
 * Open3d
